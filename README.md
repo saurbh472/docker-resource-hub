@@ -604,4 +604,4 @@ docker --tlsverify \
 -H=192.168.0.90:2376 info
 ```
 
-If everything is configured correctly, the client should successfully communicate with the Docker daemon over TLS.
+✅ **Expected Result:** If everything is configured correctly, the client should successfully communicate with the Docker daemon over TLS.
